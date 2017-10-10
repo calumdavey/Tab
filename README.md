@@ -6,4 +6,4 @@ Once a data frame is 'set' by making a copy called `tab.data`, then the function
 - `tab(variable-name)` will produce a frequency table 
 - `tab(variable-name-1, variable-name-2)` will produce a cross-tabulated frequency table 
 - the option `, m=T` will include missing values 
-
+- the data frame can also be specified in the third variable, or as `data = data-frame`
